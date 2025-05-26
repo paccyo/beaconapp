@@ -10,8 +10,12 @@
     "test": "jest"
   },
   "dependencies": {
+    "@react-native-firebase/app": "^22.2.0",
+    "@react-native-firebase/firestore": "^22.2.0",
     "react": "19.0.0",
-    "react-native": "0.79.2"
+    "react-native": "0.79.2",
+    "react-native-ble-plx": "^3.5.0",
+    "react-native-ibeacon": "^0.6.0"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",

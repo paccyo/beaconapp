@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "125029841927",
+    "project_id": "chronotrack-u10nt",
+    "storage_bucket": "chronotrack-u10nt.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125029841927:android:76679fbb2f3d4e81437ea2",
+        "android_client_info": {
+          "package_name": "com.yourcompany.beaconapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDidYRvAuj7haTDfqcXmP-6RQxqcQgGcwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
